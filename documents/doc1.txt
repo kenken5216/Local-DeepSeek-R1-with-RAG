@@ -1,0 +1,84 @@
+{
+  "company": {
+    "name": "DigiGear",
+    "about": {
+      "mission": "At DigiGear, we believe in the transformative power of technology to redefine possibilities, drive innovation, and fuel sustainable growth. Founded by a team of industry veterans and forward-thinking engineers, we’ve grown into a trusted partner for organizations seeking strategic digital transformation across diverse domains—FinTech, AI, MarTech, and Education.",
+      "vision": "We are committed to empowering businesses, institutions, and learners with cutting-edge solutions that streamline processes, elevate experiences, and expand opportunities. Our goal is to deliver measurable value and long-term impact."
+    },
+    "leadership": [
+      {"name": "Erik", "role": "Co-Founder and CEO"},
+      {"name": "Wilson", "role": "Co-Founder and CPO"},
+      {"name": "Jason", "role": "Co-Founder and CTO"}
+    ],
+    "address": "Unit 1003, 10/F, Building 19W, No. 19 Science Park West Avenue, Hong Kong Science Park, Pak Shek Kok, N.T., Hong Kong"
+  },
+  "employee_handbook": {
+    "work_hours_and_remote_policy": {
+      "standard_working_hours": "9:00 AM - 5:00 PM, Monday to Friday",
+      "availability": "Employees are expected to be available during working hours unless approved for flexible work arrangements.",
+      "remote_work": "Employees may work remotely up to 2 days per week, subject to manager approval."
+    },
+    "leave_policy": {
+      "annual_leave": "28 days of annual leave (including public holidays).",
+      "sick_leave": {
+        "requirement": "A doctor’s note is required after 3 consecutive days of absence."
+      },
+      "maternity_leave": "6 months paid leave for mothers.",
+      "paternity_leave": "2 weeks paid leave for fathers."
+    },
+    "code_of_conduct": {
+      "guidelines": [
+        "Treat colleagues, clients, and partners with respect.",
+        "Harassment, discrimination, or unethical behavior will result in disciplinary action.",
+        "Adherence to data security policies is mandatory to protect sensitive company and client information."
+      ]
+    }
+  },
+  "products": {
+    "TicketBear": {
+      "description": "An all-in-one, fully automated event management platform designed to simplify every aspect of planning, execution, and analysis.",
+      "key_features": [
+        "User-friendly interface and advanced automation for seamless event management.",
+        "Payment collection and auto-settlement features to reduce financial overhead.",
+        "Comprehensive post-event reports for data-driven decision-making.",
+        "Strategic guidance from experienced event marketing professionals for large-scale occasions."
+      ],
+      "goal": "Ensure high-quality experiences and lasting impressions, helping businesses build meaningful connections with their audiences."
+    }
+  },
+  "steam_education": {
+    "programs": [
+      {
+        "name": "2024 Generative AI Art Contest",
+        "theme": "點語成丹青",
+        "description": "This competition encourages students to explore AI applications in art while incorporating traditional Chinese idioms.",
+        "key_dates": {
+          "event_launch": "June 1, 2024",
+          "registration_deadline": "October 4, 2024",
+          "submission_deadline": "December 18, 2024",
+          "award_ceremony": {
+            "date": "February 17, 2025",
+            "location": "Chamber 3, Hong Kong Science Park",
+            "time": "2:00 PM - 5:00 PM"
+          }
+        },
+        "awards": [
+          "Diamond Award",
+          "Gold Award",
+          "Silver Award",
+          "Bronze Award",
+          "Excellence Award",
+          "Best Prompt Award",
+          "Best Creativity Award",
+          "School Participation Award"
+        ]
+      }
+    ]
+  },
+  "contact_information": {
+    "hr_email": "hr@digigear.io",
+    "stem_email": "stem@digigear.io",
+    "address": "Unit 1003, 10/F, Building 19W, No. 19 Science Park West Avenue, Hong Kong Science Park, Pak Shek Kok, N.T., Hong Kong"
+  },
+  "footer": "© DigiGear Technology Limited. All Rights Reserved."
+}

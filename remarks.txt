@@ -1,0 +1,25 @@
+remark running for windows:
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\venv\Scripts\activate
+
+
+(venv) PS K:\deepSeek> python.exe app.py
+
+further improve:
+1.performance
+    - model(maybe 8b or 16b)
+    - sentence_transformers
+    - get_embedding
+    - document write in right struture(plain text only maybe)
+
+2. call from api to improve performance($$$)
+3. make the chat be answer in whatsapp or telegram as handy chatbot
+
+better chunk:
+https://apidog.com/blog/rag-deepseek-r1-ollama/
+
+call from official API:
+https://milvus.io/docs/zh-hant/build_RAG_with_milvus_and_deepseek.md
+
+https://github.com/deepseek-ai/awesome-deepseek-integration/tree/main
+
